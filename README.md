@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">Je suis colombienne, mais j'apprends le français, donc mon profil est en français.</h6>
+<h4 align="left">Je suis colombienne, mais j'apprends le français, donc mon profil est en français.</h6>
 
 ###
 
