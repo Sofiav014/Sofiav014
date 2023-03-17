@@ -17,10 +17,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false&username=Sofiav014" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://github.com/Sofiav014/Sofiav014/blob/output/snake.svg" alt="Snake animation" />
-
-###
