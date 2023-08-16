@@ -1,11 +1,3 @@
-<h3 align="left">Salut 👋 ! Je m'appelle Sofia et je suis étudiante en ingénierie informatique à l'Universidad de los Andes en Colombie.</h3>
-
-###
-
-<h4 align="left">Je suis colombienne, mais j'apprends le français, donc mon profil est en français.</h6>
-
-###
-
 <div align="center">
   <img height="211" src="https://i.pinimg.com/564x/75/a9/4b/75a94b2b252c769498e0113f61061ce5.jpg"  />
 </div>
