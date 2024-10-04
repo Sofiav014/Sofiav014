@@ -4,8 +4,5 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=fr&hide_border=false&username=Sofiav014" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false&username=Sofiav014" height="150" alt="languages graph"  />
-</div>
+
 
