@@ -50,10 +50,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Sofiav014/Sofiav014/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/ovap2vn7pajklp3z0hk15cwah">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=ovap2vn7pajklp3z0hk15cwah&count=5&unique=true" alt="Spotify recently played"  />
